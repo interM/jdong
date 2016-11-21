@@ -3,7 +3,7 @@ python:
   - "3.5"
 
 
-# 暂定
+
 script: 
   - python3 python setup.py install 
   - python3 tests/test.py
