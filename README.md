@@ -5,7 +5,7 @@
 目前正在开发中....
 
 ##API
-###*class jdong.Good* —— 单个商品类
+### *class jdong.Good* —— 单个商品类
 每一个商品的页面代表一个Good对象
 
 >\_\_init\_\_(self, id=None, *args, **kwages)
